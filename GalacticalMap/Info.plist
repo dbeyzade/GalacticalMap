@@ -4,6 +4,8 @@
 <dict>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>Location is needed to show the sky map and satellite passes.</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
     <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
     <string>Location is needed for real-time satellite tracking and sky map.</string>
     <key>NSCameraUsageDescription</key>
