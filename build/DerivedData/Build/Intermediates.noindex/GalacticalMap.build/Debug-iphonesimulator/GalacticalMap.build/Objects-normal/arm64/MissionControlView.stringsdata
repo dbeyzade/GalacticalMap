@@ -1,0 +1,224 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MissionControlView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MISSION CONTROL",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 529
+        }
+      },
+      {
+        "comment": "",
+        "key": "Telemetry",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 540
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ground Stations",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "MISSION ELAPSED TIME",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 565
+        }
+      },
+      {
+        "comment": "",
+        "key": "SYSTEM STATUS",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 577
+        }
+      },
+      {
+        "comment": "",
+        "key": "NOMINAL",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 585
+        }
+      },
+      {
+        "comment": "",
+        "key": "ACTIVE MISSIONS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 608
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld ONLINE",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 614
+        }
+      },
+      {
+        "comment": "",
+        "key": "ALT:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 650
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 653
+        }
+      },
+      {
+        "comment": "",
+        "key": "INC:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 657
+        }
+      },
+      {
+        "comment": "",
+        "key": "CREW:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 666
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 669
+        }
+      },
+      {
+        "comment": "",
+        "key": "TYPE:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 673
+        }
+      },
+      {
+        "comment": "",
+        "key": "NEXT EVENT:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 687
+        }
+      },
+      {
+        "comment": "",
+        "key": "TELEMETRY DATA",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 762
+        }
+      },
+      {
+        "comment": "",
+        "key": "↓ %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 791
+        }
+      },
+      {
+        "comment": "",
+        "key": "GROUND STATION NETWORK",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 844
+        }
+      },
+      {
+        "comment": "",
+        "key": "→ %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 872
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldm • %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 877
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld dBm",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 889
+        }
+      },
+      {
+        "comment": "",
+        "key": "SPACE WEATHER",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 908
+        }
+      },
+      {
+        "comment": "",
+        "key": "SOLAR WIND:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 916
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km/s",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 919
+        }
+      },
+      {
+        "comment": "",
+        "key": "KP INDEX:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 925
+        }
+      },
+      {
+        "comment": "",
+        "key": "RADIATION:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 934
+        }
+      },
+      {
+        "comment": "",
+        "key": "ELEVATED",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 937
+        }
+      }
+    ]
+  },
+  "version": 1
+}

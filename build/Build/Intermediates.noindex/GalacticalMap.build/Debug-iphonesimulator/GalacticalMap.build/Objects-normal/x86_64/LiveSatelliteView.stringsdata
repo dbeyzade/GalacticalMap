@@ -1,0 +1,144 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/LiveSatelliteView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Live Satellite Tracking",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE SATELLITE TRACKING",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Real-Time Positions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "CANLI",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 266
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yükseklik",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hız",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km/h",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "WATCH LIVE",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 374
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filters",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 460
+        }
+      },
+      {
+        "comment": "",
+        "key": "Origin",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 438
+        }
+      },
+      {
+        "comment": "",
+        "key": "Visibility",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 455
+        }
+      },
+      {
+        "comment": "",
+        "key": "Only Visible Satellites",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Only Favorites",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 457
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 464
+        }
+      }
+    ]
+  },
+  "version": 1
+}

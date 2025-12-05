@@ -1,0 +1,64 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/AIStarRecognition.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Camera Preview",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 613
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Yıldız Tanıma",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 626
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analiz ediliyor...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 634
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 645
+        }
+      },
+      {
+        "comment": "",
+        "key": "Güven",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 650
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 688
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@m",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 692
+        }
+      }
+    ]
+  },
+  "version": 1
+}

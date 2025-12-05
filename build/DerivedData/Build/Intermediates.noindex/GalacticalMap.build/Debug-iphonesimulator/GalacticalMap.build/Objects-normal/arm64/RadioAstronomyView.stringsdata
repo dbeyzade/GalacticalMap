@@ -1,0 +1,64 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/RadioAstronomyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "📻 Radio Astronomy",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Listen",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "📻 Famous Pulsars",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "📡 Signal",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Listening...",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Off",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 84
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,569 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary.dia",
+    "emit-module-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary-emit-module.dia",
+    "pch" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary.swiftdeps"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/ContentView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/EarthEyesView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/MainTabView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMapApp.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMapApp~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Models/CommonTypes.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/CommonTypes~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Models/FavoriteItem.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteItem~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Models/Satellite.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Satellite~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Models/SkyAnomaly.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyAnomaly~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Models/Star.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/Star~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/AIStarRecognition.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AIStarRecognition~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/DSLRCameraControl.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DSLRCameraControl~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/DeepSpaceNetwork.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/DeepSpaceNetwork~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/ExoplanetDetector.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ExoplanetDetector~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/FavoritesManager.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoritesManager~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/GravitationalWaveDetector.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GravitationalWaveDetector~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/LocationManager.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LocationManager~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/PersistenceManager.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/PersistenceManager~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/RTKLocationManager.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RTKLocationManager~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SatellitePassPrediction.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatellitePassPrediction~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SatelliteService.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteService~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SmartAlarmSystem.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SmartAlarmSystem~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SpectroscopyAnalyzer.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpectroscopyAnalyzer~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/TelescopeConnection.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/TelescopeConnection~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Utilities/AnimationHelpers.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnimationHelpers~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Utilities/FavoriteButton.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/FavoriteButton~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/ViewModels/AnomalyViewModel.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomalyViewModel~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/ViewModels/SatelliteViewModel.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SatelliteViewModel~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/ViewModels/StarMapViewModel.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapViewModel~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ARSkyView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ARSkyView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/AdvancedFavoritesView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AdvancedFavoritesView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/AnomaliesView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AnomaliesView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/AsteroidTrackerView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/AsteroidTrackerView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/HomeDashboardView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/HomeDashboardView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ISS3DUserCodeView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISS3DUserCodeView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ISSLiveView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSLiveView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ISSUserCodeView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/ISSUserCodeView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/LiveSatelliteView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveSatelliteView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/LiveStreamView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/LiveStreamView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MarsRoverView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MarsRoverView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MeteorShowerView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MeteorShowerView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MissionControlView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MissionControlView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MoonPhasesView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/MoonPhasesView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/OrbitSimulatorView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitSimulatorView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/OrbitalMechanicsView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/OrbitalMechanicsView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/RadioAstronomyView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RadioAstronomyView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/RealTime3DSkyView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RealTime3DSkyView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/RecordedVideosView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/RecordedVideosView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SavedItemsView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SavedItemsView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SkyObservationView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SkyObservationView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SocialFeaturesView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SocialFeaturesView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SolarActivityView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SolarActivityView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SpaceStation3DTourView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SpaceStation3DTourView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/StarMapView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StarMapView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/StartupVideoView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/StartupVideoView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SupernovaAlertView.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/SupernovaAlertView~partial.swiftmodule"
+  },
+  "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

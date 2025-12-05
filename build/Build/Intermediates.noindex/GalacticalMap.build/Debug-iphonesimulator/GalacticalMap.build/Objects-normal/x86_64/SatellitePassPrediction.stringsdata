@@ -1,0 +1,176 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SatellitePassPrediction.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Satellite Passes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 416
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filter",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 396
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "Visible",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorites",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 400
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Location",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 446
+        }
+      },
+      {
+        "comment": "",
+        "key": "🛰️ Next Pass",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 524
+        }
+      },
+      {
+        "comment": "",
+        "key": "⭐ VISIBLE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 531
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 565
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 568
+        }
+      },
+      {
+        "comment": "",
+        "key": "🔴 VISIBLE NOW",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 652
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elevation: %lld°",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "Azimuth: %lld°",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 695
+        }
+      },
+      {
+        "comment": "",
+        "key": "NASA",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 724
+        }
+      },
+      {
+        "comment": "",
+        "key": "Roscosmos",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 724
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 742
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 754
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld°",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 757
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duration",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 766
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 769
+        }
+      }
+    ]
+  },
+  "version": 1
+}

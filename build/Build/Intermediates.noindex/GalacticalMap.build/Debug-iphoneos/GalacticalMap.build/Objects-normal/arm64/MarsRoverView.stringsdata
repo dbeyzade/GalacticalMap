@@ -1,0 +1,40 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MarsRoverView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inactive",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sol %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 755
+        }
+      },
+      {
+        "comment": "",
+        "key": "ℹ️ Mission Info",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 774
+        }
+      }
+    ]
+  },
+  "version": 1
+}

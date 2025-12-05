@@ -1,0 +1,120 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/StarMapView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Star Map",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search stars...",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Constellations",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld stars",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stars",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show All",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved Only",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 230
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld ly",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Spectral Information",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "Observation Notes",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Note",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Saved",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 359
+        }
+      }
+    ]
+  },
+  "version": 1
+}

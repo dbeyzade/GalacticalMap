@@ -1,0 +1,144 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/LiveStreamView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Saved",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 464
+        }
+      },
+      {
+        "comment": "",
+        "key": "ISS Live Video",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream Info",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 608
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream Info",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 724
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream Details",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 669
+        }
+      },
+      {
+        "comment": "",
+        "key": "Features",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 698
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 671
+        }
+      },
+      {
+        "comment": "",
+        "key": "Live",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 677
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quality",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 684
+        }
+      },
+      {
+        "comment": "",
+        "key": "HD 1080p",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Viewers",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "12,543",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "AirPlay Support",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 701
+        }
+      },
+      {
+        "comment": "",
+        "key": "Screen Mirroring",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 709
+        }
+      },
+      {
+        "comment": "",
+        "key": "4K Support",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 717
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 728
+        }
+      }
+    ]
+  },
+  "version": 1
+}

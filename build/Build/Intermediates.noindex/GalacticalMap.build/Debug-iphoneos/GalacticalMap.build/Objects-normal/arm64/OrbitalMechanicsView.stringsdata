@@ -1,0 +1,264 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/OrbitalMechanicsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Orbital Mechanics Lab",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calculation Type",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 443
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hohmann Transfer",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 444
+        }
+      },
+      {
+        "comment": "",
+        "key": "Launch Windows",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 445
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gravity Assist",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 446
+        }
+      },
+      {
+        "comment": "",
+        "key": "ORBITAL MECHANICS LAB",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 469
+        }
+      },
+      {
+        "comment": "",
+        "key": "HOHMANN TRANSFER CALCULATOR",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 495
+        }
+      },
+      {
+        "comment": "",
+        "key": "INITIAL ORBIT:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 502
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 506
+        }
+      },
+      {
+        "comment": "",
+        "key": "FINAL ORBIT:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 515
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 519
+        }
+      },
+      {
+        "comment": "",
+        "key": "RESULTS:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 536
+        }
+      },
+      {
+        "comment": "",
+        "key": "INTERPLANETARY LAUNCH WINDOWS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 592
+        }
+      },
+      {
+        "comment": "",
+        "key": "Target Planet",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 596
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mars",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 597
+        }
+      },
+      {
+        "comment": "",
+        "key": "Venus",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 598
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jupiter",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 599
+        }
+      },
+      {
+        "comment": "",
+        "key": "CALCULATE WINDOWS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 606
+        }
+      },
+      {
+        "comment": "",
+        "key": "C3:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 640
+        }
+      },
+      {
+        "comment": "",
+        "key": "ΔV:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "TRANSFER:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 658
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld days",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 661
+        }
+      },
+      {
+        "comment": "",
+        "key": "GRAVITY ASSIST CALCULATOR",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 692
+        }
+      },
+      {
+        "comment": "",
+        "key": "Planet",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "Jupiter",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 698
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saturn",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 699
+        }
+      },
+      {
+        "comment": "",
+        "key": "Venus",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 700
+        }
+      },
+      {
+        "comment": "",
+        "key": "INCOMING V∞:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 706
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld m/s",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 710
+        }
+      },
+      {
+        "comment": "",
+        "key": "PERIAPSIS ALT:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 720
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld km",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 724
+        }
+      },
+      {
+        "comment": "",
+        "key": "FLYBY RESULTS:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 736
+        }
+      }
+    ]
+  },
+  "version": 1
+}

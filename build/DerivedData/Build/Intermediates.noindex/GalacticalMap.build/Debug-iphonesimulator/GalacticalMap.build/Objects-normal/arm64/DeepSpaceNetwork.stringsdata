@@ -1,0 +1,96 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/DeepSpaceNetwork.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Deep Space Network",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "ACTIVE ANTENNAS",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "TELEMETRY STREAM",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 452
+        }
+      },
+      {
+        "comment": "",
+        "key": "DEEP SPACE NETWORK",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 472
+        }
+      },
+      {
+        "comment": "",
+        "key": "NETWORK STATUS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 491
+        }
+      },
+      {
+        "comment": "",
+        "key": "OPERATIONAL",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 501
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ • %lldm",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 578
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 680
+        }
+      },
+      {
+        "comment": "",
+        "key": "RSSI: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "SNR: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 758
+        }
+      }
+    ]
+  },
+  "version": 1
+}

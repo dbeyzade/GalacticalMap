@@ -1,0 +1,144 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/GravitationalWaveDetector.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Gravitational Waves",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 509
+        }
+      },
+      {
+        "comment": "",
+        "key": "STOP",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "START",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "CONFIRMED DETECTIONS",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 493
+        }
+      },
+      {
+        "comment": "",
+        "key": "GRAVITATIONAL WAVE OBSERVATORY",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIGO-STYLE DETECTOR",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 535
+        }
+      },
+      {
+        "comment": "",
+        "key": "OBSERVING",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "OFFLINE",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "REAL-TIME STRAIN (h)",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 615
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@σ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 691
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ M☉",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 742
+        }
+      },
+      {
+        "comment": "",
+        "key": "DISTANCE",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 754
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Mpc",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 757
+        }
+      },
+      {
+        "comment": "",
+        "key": "PEAK h",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 769
+        }
+      },
+      {
+        "comment": "",
+        "key": "RADIATED",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 784
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ M☉c²",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 787
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 887
+        }
+      }
+    ]
+  },
+  "version": 1
+}

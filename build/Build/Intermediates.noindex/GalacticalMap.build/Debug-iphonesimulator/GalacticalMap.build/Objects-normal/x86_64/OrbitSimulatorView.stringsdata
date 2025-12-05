@@ -1,0 +1,64 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/OrbitSimulatorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🚀 Yörünge Simülatörü",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yörünge Tipi",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yükseklik: %lld km",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hız: %.1f km/s",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Durdur",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fırlat!",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "📊 Yörünge Bilgileri",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 129
+        }
+      }
+    ]
+  },
+  "version": 1
+}

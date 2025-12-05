@@ -1,0 +1,184 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/DSLRCameraControl.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "DSLR Control",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 615
+        }
+      },
+      {
+        "comment": "",
+        "key": "SCAN FOR CAMERAS",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 595
+        }
+      },
+      {
+        "comment": "",
+        "key": "DSLR ASTROPHOTOGRAPHY",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 622
+        }
+      },
+      {
+        "comment": "",
+        "key": "WiFi",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 704
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bluetooth",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 704
+        }
+      },
+      {
+        "comment": "",
+        "key": "CAMERA SETTINGS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "CAPTURE CONTROL",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 807
+        }
+      },
+      {
+        "comment": "",
+        "key": "BULB DURATION:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 814
+        }
+      },
+      {
+        "comment": "",
+        "key": "%llds",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 818
+        }
+      },
+      {
+        "comment": "",
+        "key": "CAPTURE",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 831
+        }
+      },
+      {
+        "comment": "",
+        "key": "INTERVALOMETER",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 856
+        }
+      },
+      {
+        "comment": "",
+        "key": "PROGRESS: %lld/%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 872
+        }
+      },
+      {
+        "comment": "",
+        "key": "ETA: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 878
+        }
+      },
+      {
+        "comment": "",
+        "key": "STOP",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 886
+        }
+      },
+      {
+        "comment": "",
+        "key": "START SEQUENCE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 898
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 929
+        }
+      },
+      {
+        "comment": "",
+        "key": "IMAGE STACK (%lld)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 947
+        }
+      },
+      {
+        "comment": "",
+        "key": "STACK",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 956
+        }
+      },
+      {
+        "comment": "",
+        "key": "WiFi",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 1008
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bluetooth",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 1008
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calculators",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1070
+        }
+      },
+      {
+        "comment": "",
+        "key": "PARAMETERS",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1055
+        }
+      }
+    ]
+  },
+  "version": 1
+}

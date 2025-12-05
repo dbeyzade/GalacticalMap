@@ -1,0 +1,280 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/AdvancedFavoritesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My Favorites",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search favorites...",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sort",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Grid",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "List",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Timeline",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Statistics",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collections",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 214
+        }
+      },
+      {
+        "comment": "",
+        "key": "⭐ Featured",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "🕐 Recently Viewed",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 395
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Favorites",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 476
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 660
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Favorites Yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 736
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add stars, satellites, and more to your favorites",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 741
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Collection",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 835
+        }
+      },
+      {
+        "comment": "",
+        "key": "Info",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 793
+        }
+      },
+      {
+        "comment": "",
+        "key": "Color",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 798
+        }
+      },
+      {
+        "comment": "",
+        "key": "Icon",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 817
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collection Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 794
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description (optional)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 795
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 839
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 845
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Favorites",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 1018
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 926
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 943
+        }
+      },
+      {
+        "comment": "",
+        "key": "Views",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 947
+        }
+      },
+      {
+        "comment": "",
+        "key": "Added Date",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 960
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Featured",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 977
+        }
+      },
+      {
+        "comment": "",
+        "key": "Make Featured",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 977
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Favorites",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1004
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1019
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1020
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to remove this item from favorites?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1024
+        }
+      }
+    ]
+  },
+  "version": 1
+}

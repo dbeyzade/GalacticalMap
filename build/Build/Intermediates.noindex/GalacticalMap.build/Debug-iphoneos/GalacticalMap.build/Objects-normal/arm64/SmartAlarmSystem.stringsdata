@@ -1,0 +1,144 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SmartAlarmSystem.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Alarmlar",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 577
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 632
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld dakika önce",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 624
+        }
+      },
+      {
+        "comment": "",
+        "key": "Henüz Alarm Yok",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 664
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uydu geçişleri ve özel olaylar için alarm oluşturun",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 669
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yeni Alarm",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 714
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alarm Bilgileri",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 695
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alarm Tipi",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 700
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ayarlar",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 708
+        }
+      },
+      {
+        "comment": "",
+        "key": "Başlık",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 696
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mesaj",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tip",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 701
+        }
+      },
+      {
+        "comment": "",
+        "key": "Önceden: %lld dk",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 709
+        }
+      },
+      {
+        "comment": "",
+        "key": "Titreşim",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 710
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tekrarla",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 711
+        }
+      },
+      {
+        "comment": "",
+        "key": "İptal",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 718
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kaydet",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 724
+        }
+      }
+    ]
+  },
+  "version": 1
+}

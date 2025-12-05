@@ -1,0 +1,128 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/AnomaliesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sky Anomalies",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search anomalies...",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Featured",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 205
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Anomalies",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 269
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 433
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discovery",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 450
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discovered By",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Year",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 467
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Observation Notes",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 484
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Note",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from Saved",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 522
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 522
+        }
+      }
+    ]
+  },
+  "version": 1
+}

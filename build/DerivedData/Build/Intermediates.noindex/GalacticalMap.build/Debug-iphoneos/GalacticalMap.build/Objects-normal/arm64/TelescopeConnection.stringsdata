@@ -1,0 +1,160 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/TelescopeConnection.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Teleskop Kontrolü",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 700
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teleskop Ara",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bağlantıyı Kes",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 727
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hizalama: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 773
+        }
+      },
+      {
+        "comment": "",
+        "key": "Firmware: %@",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 764
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 767
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mevcut Konum",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 789
+        }
+      },
+      {
+        "comment": "",
+        "key": "RA",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 795
+        }
+      },
+      {
+        "comment": "",
+        "key": "DEC",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 805
+        }
+      },
+      {
+        "comment": "",
+        "key": "ALT",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 815
+        }
+      },
+      {
+        "comment": "",
+        "key": "AZ",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 825
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kontrol",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 846
+        }
+      },
+      {
+        "comment": "",
+        "key": "Durdur",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 907
+        }
+      },
+      {
+        "comment": "",
+        "key": "Takip Et",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 907
+        }
+      },
+      {
+        "comment": "",
+        "key": "Park",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 918
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hızlı Hedefler",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 945
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teleskop Ara",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1024
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teleskop bulunamadı",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1016
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kapat",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1028
+        }
+      }
+    ]
+  },
+  "version": 1
+}

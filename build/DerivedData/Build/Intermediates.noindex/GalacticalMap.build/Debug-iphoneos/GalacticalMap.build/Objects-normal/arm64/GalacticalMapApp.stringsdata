@@ -1,0 +1,312 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMapApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Star Map",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Magnitude: %.2f",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gökyüzü",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Satellite Tracking",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Orbit: %lld km",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uydu",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorites",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "No favorites yet",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favoriler",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Features",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "App",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Versiyon",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "1.0",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Platform",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "iOS 18.0+",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gökyüzü",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uydu",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kaydedilenler",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Anomaliler",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ayarlar",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "⭐ Yıldız Haritası",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gökyüzündeki yıldızları keşfedin",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 303
+        }
+      },
+      {
+        "comment": "",
+        "key": "🛰️ Uydu Takibi",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "Canlı uydu konumları",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "❤️ Kaydedilenler",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 329
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorileriniz burada gösterilecek",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ Anomaliler",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "Uzay anomalileri",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 348
+        }
+      },
+      {
+        "comment": "",
+        "key": "GalacticalMap v1.0",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profesyonel Uzay Gözlem Platformu",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 363
+        }
+      },
+      {
+        "comment": "",
+        "key": "📍 Features:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 370
+        }
+      },
+      {
+        "comment": "",
+        "key": "• Satellite Tracking",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 374
+        }
+      },
+      {
+        "comment": "",
+        "key": "• Star Map",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "• AR Sky",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "• Telescope Control",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 377
+        }
+      },
+      {
+        "comment": "",
+        "key": "• Spectroscopy Analysis",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 378
+        }
+      }
+    ]
+  },
+  "version": 1
+}

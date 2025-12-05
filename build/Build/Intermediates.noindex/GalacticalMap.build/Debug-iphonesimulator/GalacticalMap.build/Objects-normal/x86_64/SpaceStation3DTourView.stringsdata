@@ -1,0 +1,32 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/SpaceStation3DTourView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🛰️ Space Station 3D Tour",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Station",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Module",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 95
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,168 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/SpectroscopyAnalyzer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Spectroscopy Lab",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 512
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 490
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stellar Class",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 491
+        }
+      },
+      {
+        "comment": "",
+        "key": "Redshift",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 492
+        }
+      },
+      {
+        "comment": "",
+        "key": "Composition",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 493
+        }
+      },
+      {
+        "comment": "",
+        "key": "SPECTROSCOPY LAB",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 519
+        }
+      },
+      {
+        "comment": "",
+        "key": "STELLAR CLASSIFICATION",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 538
+        }
+      },
+      {
+        "comment": "",
+        "key": "TEMPERATURE:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 545
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld K",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 549
+        }
+      },
+      {
+        "comment": "",
+        "key": "SPECTRAL TYPE:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 563
+        }
+      },
+      {
+        "comment": "",
+        "key": "REDSHIFT ANALYSIS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 612
+        }
+      },
+      {
+        "comment": "",
+        "key": "RESULTS:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 638
+        }
+      },
+      {
+        "comment": "",
+        "key": "DIRECTION:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 665
+        }
+      },
+      {
+        "comment": "",
+        "key": "RECEDING",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 671
+        }
+      },
+      {
+        "comment": "",
+        "key": "APPROACHING",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 671
+        }
+      },
+      {
+        "comment": "",
+        "key": "ELEMENTAL COMPOSITION",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 712
+        }
+      },
+      {
+        "comment": "",
+        "key": "[Fe/H]:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 718
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 763
+        }
+      },
+      {
+        "comment": "",
+        "key": "HERTZSPRUNG-RUSSELL DIAGRAM",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 795
+        }
+      },
+      {
+        "comment": "",
+        "key": "HOT ← → COOL",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 827
+        }
+      }
+    ]
+  },
+  "version": 1
+}

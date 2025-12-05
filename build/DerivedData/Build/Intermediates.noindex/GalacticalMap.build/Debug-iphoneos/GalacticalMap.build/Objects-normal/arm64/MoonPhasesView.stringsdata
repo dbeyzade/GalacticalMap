@@ -1,0 +1,88 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/MoonPhasesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🌙 Moon Phases",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Işık Oranı: %lld%%",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "🌑 Upcoming Eclipses",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "☀️",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "🌙",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Solar Eclipse",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lunar Eclipse",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "📅 This Month",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "📊 Moon Data",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 136
+        }
+      }
+    ]
+  },
+  "version": 1
+}

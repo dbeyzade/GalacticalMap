@@ -1,0 +1,88 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Services/ExoplanetDetector.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Exoplanet Explorer",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "DISCOVERED EXOPLANETS",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 500
+        }
+      },
+      {
+        "comment": "",
+        "key": "EXOPLANET EXPLORER",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 523
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 541
+        }
+      },
+      {
+        "comment": "",
+        "key": "CONFIRMED EXOPLANETS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 545
+        }
+      },
+      {
+        "comment": "",
+        "key": "Real data from NASA Exoplanet Archive",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 549
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 594
+        }
+      },
+      {
+        "comment": "",
+        "key": "HABITABILITY:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 621
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 737
+        }
+      },
+      {
+        "comment": "",
+        "key": "SCORE:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 833
+        }
+      }
+    ]
+  },
+  "version": 1
+}

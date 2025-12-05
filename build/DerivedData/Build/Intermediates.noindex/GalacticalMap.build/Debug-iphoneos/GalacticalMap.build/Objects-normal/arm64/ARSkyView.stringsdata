@@ -1,0 +1,56 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ARSkyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "AR",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "AR Sky",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Augmented reality mode",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "AR is not supported on this device",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

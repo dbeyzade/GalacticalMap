@@ -1,0 +1,40 @@
+{
+  "source": "/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/RealTime3DSkyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "3D Sky",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "3D Sky",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Real-time sky with VR mode",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "VR Mode",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 50
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,299 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -scheme GalacticalMap -configuration Debug -sdk iphonesimulator -destination "platform=iOS Simulator,name=iPhone 17" -derivedDataPath build/DerivedData build
+
+Build settings from command line:
+    SDKROOT = iphonesimulator26.1
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (1 target)
+    Target 'GalacticalMap' in project 'GalacticalMap' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Assets.xcassets
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+Build description signature: 01326cdd48b011610e7483c2e623460a
+Build description path: /Volumes/my ssd/biten projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/XCBuildData/01326cdd48b011610e7483c2e623460a.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.1-23B77-90cf18a4295e390e64c810bc6bd7acbc.sdkstatcache
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk -o /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.1-23B77-90cf18a4295e390e64c810bc6bd7acbc.sdkstatcache
+
+ProcessProductPackaging "" /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "DT4UT73T4X.com.dogukanbeyzade.galacticalmap";
+}
+    
+    builtin-productPackagingUtility -entitlements -format xml -o /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent
+
+ProcessProductPackagingDER /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent.der (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    /usr/bin/derq query -f xml -i /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent -o /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap.app-Simulated.xcent.der --raw
+
+ProcessInfoPlistFile /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator/GalacticalMap.app/Info.plist /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Info.plist (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    builtin-infoPlistUtility /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Info.plist -producttype com.apple.product-type.application -genpkginfo /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator/GalacticalMap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/assetcatalog_generated_info.plist -o /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator/GalacticalMap.app/Info.plist
+
+SwiftDriver GalacticalMap normal arm64 com.apple.xcode.tools.swift.compiler (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name GalacticalMap -Onone -enforce-exclusivity\=checked @/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.SwiftFileList -DDEBUG -default-isolation\=MainActor -enable-bare-slash-regex -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk -target arm64-apple-ios18.0-simulator -g -module-cache-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator -F /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator -emit-localized-strings -emit-localized-strings-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64 -c -j10 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.1-23B77-90cf18a4295e390e64c810bc6bd7acbc.sdkstatcache -output-file-map /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.swiftmodule -validate-clang-modules-once -clang-build-session-file /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap_const_extract_protocols.json -Xcc -iquote -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-generated-files.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-own-target-headers.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-all-target-headers.hmap -Xcc -iquote -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-project-headers.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator/include -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources-normal/arm64 -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/arm64 -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-Swift.h -working-directory /Volumes/my\ ssd/biten\ projeler/GalacticalMap -experimental-emit-module-separately -disable-cmo
+
+SwiftCompile normal arm64 Compiling\ EarthEyesView.swift,\ MainTabView.swift,\ CommonTypes.swift,\ FavoriteItem.swift,\ Satellite.swift,\ SkyAnomaly.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/MainTabView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/CommonTypes.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/FavoriteItem.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Satellite.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/SkyAnomaly.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/MainTabView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/CommonTypes.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/FavoriteItem.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Satellite.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/SkyAnomaly.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ Star.swift,\ AIStarRecognition.swift,\ DeepSpaceNetwork.swift,\ DSLRCameraControl.swift,\ ExoplanetDetector.swift,\ FavoritesManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Star.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/AIStarRecognition.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DeepSpaceNetwork.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DSLRCameraControl.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/ExoplanetDetector.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/FavoritesManager.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Star.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/AIStarRecognition.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DeepSpaceNetwork.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DSLRCameraControl.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/ExoplanetDetector.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/FavoritesManager.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ HomeDashboardView.swift,\ ISS3DUserCodeView.swift,\ ISSLiveView.swift,\ ISSUserCodeView.swift,\ LiveSatelliteView.swift,\ LiveStreamView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/HomeDashboardView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISS3DUserCodeView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSLiveView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSUserCodeView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveSatelliteView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveStreamView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/HomeDashboardView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISS3DUserCodeView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSLiveView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSUserCodeView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveSatelliteView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveStreamView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ SatelliteViewModel.swift,\ StarMapViewModel.swift,\ AdvancedFavoritesView.swift,\ AnomaliesView.swift,\ ARSkyView.swift,\ AsteroidTrackerView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/SatelliteViewModel.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/StarMapViewModel.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AdvancedFavoritesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AnomaliesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ARSkyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AsteroidTrackerView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/SatelliteViewModel.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/StarMapViewModel.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AdvancedFavoritesView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AnomaliesView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ARSkyView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AsteroidTrackerView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ GalacticalMap (in target 'GalacticalMap' from project 'GalacticalMap')
+Failed frontend command:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift-frontend -frontend -emit-module -experimental-skip-non-inlinable-function-bodies-without-types /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/MainTabView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/CommonTypes.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/FavoriteItem.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Satellite.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/SkyAnomaly.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Models/Star.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/AIStarRecognition.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DeepSpaceNetwork.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/DSLRCameraControl.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/ExoplanetDetector.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/FavoritesManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/GravitationalWaveDetector.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/LocationManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/PersistenceManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/RTKLocationManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatellitePassPrediction.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatelliteService.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SmartAlarmSystem.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SpectroscopyAnalyzer.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/TelescopeConnection.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Utilities/AnimationHelpers.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Utilities/FavoriteButton.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/AnomalyViewModel.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/SatelliteViewModel.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ViewModels/StarMapViewModel.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AdvancedFavoritesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AnomaliesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ARSkyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/AsteroidTrackerView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/HomeDashboardView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISS3DUserCodeView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSLiveView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/ISSUserCodeView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveSatelliteView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/LiveStreamView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MarsRoverView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MeteorShowerView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MissionControlView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MoonPhasesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitalMechanicsView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitSimulatorView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RadioAstronomyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RealTime3DSkyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RecordedVideosView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SavedItemsView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SkyObservationView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SocialFeaturesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SolarActivityView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SpaceStation3DTourView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StarMapView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StartupVideoView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SupernovaAlertView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ContentView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMapApp.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/GeneratedAssetSymbols.swift -target arm64-apple-ios18.0-simulator -module-can-import-version DeveloperToolsSupport 23.0.4 23.0.4 -module-can-import-version SwiftUI 7.1.13.1 7.1.13 -module-can-import-version UIKit 9126.1.12.1 9126.1.12 -disable-cross-import-overlay-search -swift-module-cross-import AVKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/AVKit.framework/Modules/AVKit.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import AVKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/AVKit.framework/Modules/AVKit.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import MapKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/MapKit.framework/Modules/MapKit.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import PhotosUI /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/PhotosUI.framework/Modules/PhotosUI.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import PhotosUI /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/PhotosUI.framework/Modules/PhotosUI.swiftcrossimport/WidgetKit.swiftoverlay -swift-module-cross-import PhotosUI /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/PhotosUI.framework/Modules/PhotosUI.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import PhotosUI /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/PhotosUI.framework/Modules/PhotosUI.swiftcrossimport/WidgetKit.swiftoverlay -swift-module-cross-import SceneKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/SceneKit.framework/Modules/SceneKit.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import SwiftData /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/SwiftData.framework/Modules/SwiftData.swiftcrossimport/CoreData.swiftoverlay -swift-module-cross-import SwiftData /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/SwiftData.framework/Modules/SwiftData.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import WebKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Modules/WebKit.swiftcrossimport/SwiftUI.swiftoverlay -swift-module-cross-import WebKit /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk/System/Library/Frameworks/WebKit.framework/Modules/WebKit.swiftcrossimport/SwiftUI.swiftoverlay -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libFoundationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#FoundationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libObservationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#ObservationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libPreviewsMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#PreviewsMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftDataMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftDataMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftUIMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftUIMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libTipKitMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#TipKitMacros -disable-implicit-swift-modules -Xcc -fno-implicit-modules -Xcc -fno-implicit-module-maps -explicit-swift-module-map-file /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-dependencies-1.json -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.1.sdk -I /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator -F /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator -no-color-diagnostics -Xcc -fno-color-diagnostics -enable-testing -g -debug-info-format\=dwarf -dwarf-version\=5 -module-cache-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -swift-version 5 -enforce-exclusivity\=checked -Onone -D DEBUG -serialize-debugging-options -const-gather-protocols-file /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap_const_extract_protocols.json -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -default-isolation\=MainActor -empty-abi-descriptor -validate-clang-modules-once -clang-build-session-file /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -working-directory -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap -enable-anonymous-context-mangled-names -file-compilation-dir /Volumes/my\ ssd/biten\ projeler/GalacticalMap -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -Xcc -ivfsstatcache -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/SDKStatCaches.noindex/iphonesimulator26.1-23B77-90cf18a4295e390e64c810bc6bd7acbc.sdkstatcache -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/swift-overrides.hmap -Xcc -iquote -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-generated-files.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-own-target-headers.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-all-target-headers.hmap -Xcc -iquote -Xcc /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/GalacticalMap-project-headers.hmap -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Products/Debug-iphonesimulator/include -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources-normal/arm64 -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/arm64 -Xcc -I/Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources -Xcc -DDEBUG\=1 -no-auto-bridging-header-chaining -module-name GalacticalMap -frontend-parseable-output -disable-clang-spi -target-sdk-version 26.1 -target-sdk-name iphonesimulator26.1 -clang-target arm64-apple-ios26.1-simulator -in-process-plugin-server-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/libSwiftInProcPluginServer.dylib -emit-module-doc-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.swiftdoc -emit-module-source-info-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.swiftsourceinfo -emit-objc-header-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-Swift.h -serialize-diagnostics-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary-emit-module.dia -emit-dependencies-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap-primary-emit-module.d -o /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.swiftmodule -emit-abi-descriptor-path /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/Objects-normal/arm64/GalacticalMap.abi.json
+
+EmitSwiftModule normal arm64 (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/Views/ISS3DUserCodeView.swift:45:16: error: invalid redeclaration of 'WebView'
+private struct WebView: UIViewRepresentable {
+               ^
+/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift:299:8: note: 'WebView' previously declared here
+struct WebView: UIViewRepresentable {
+       ^
+/Volumes/my ssd/biten projeler/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/GalacticalMap/Views/EarthEyesView.swift:299:8: note: 'WebView' previously declared here
+struct WebView: UIViewRepresentable {
+       ^
+
+SwiftCompile normal arm64 Compiling\ MarsRoverView.swift,\ MeteorShowerView.swift,\ MissionControlView.swift,\ MoonPhasesView.swift,\ OrbitalMechanicsView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MarsRoverView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MeteorShowerView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MissionControlView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MoonPhasesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitalMechanicsView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MarsRoverView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MeteorShowerView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MissionControlView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/MoonPhasesView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitalMechanicsView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ SkyObservationView.swift,\ SocialFeaturesView.swift,\ SolarActivityView.swift,\ SpaceStation3DTourView.swift,\ StarMapView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SkyObservationView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SocialFeaturesView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SolarActivityView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SpaceStation3DTourView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StarMapView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SkyObservationView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SocialFeaturesView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SolarActivityView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SpaceStation3DTourView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StarMapView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ StartupVideoView.swift,\ SupernovaAlertView.swift,\ ContentView.swift,\ GalacticalMapApp.swift,\ GeneratedAssetSymbols.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StartupVideoView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SupernovaAlertView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ContentView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMapApp.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/GeneratedAssetSymbols.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/StartupVideoView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SupernovaAlertView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/ContentView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/GalacticalMapApp.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/build/DerivedData/Build/Intermediates.noindex/GalacticalMap.build/Debug-iphonesimulator/GalacticalMap.build/DerivedSources/GeneratedAssetSymbols.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ GravitationalWaveDetector.swift,\ LocationManager.swift,\ PersistenceManager.swift,\ RTKLocationManager.swift,\ SatellitePassPrediction.swift,\ SatelliteService.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/GravitationalWaveDetector.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/LocationManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/PersistenceManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/RTKLocationManager.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatellitePassPrediction.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatelliteService.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/GravitationalWaveDetector.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/LocationManager.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/PersistenceManager.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/RTKLocationManager.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatellitePassPrediction.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Services/SatelliteService.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 Compiling\ OrbitSimulatorView.swift,\ RadioAstronomyView.swift,\ RealTime3DSkyView.swift,\ RecordedVideosView.swift,\ SavedItemsView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitSimulatorView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RadioAstronomyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RealTime3DSkyView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RecordedVideosView.swift /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SavedItemsView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/OrbitSimulatorView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RadioAstronomyView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RealTime3DSkyView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/RecordedVideosView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
+SwiftCompile normal arm64 /Volumes/my\ ssd/biten\ projeler/GalacticalMap/GalacticalMap/Views/SavedItemsView.swift (in target 'GalacticalMap' from project 'GalacticalMap')
+    cd /Volumes/my\ ssd/biten\ projeler/GalacticalMap
+    
+
