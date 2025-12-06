@@ -137,9 +137,11 @@ struct PremiumSubscriptionView: View {
                 
                 // Footer
                 HStack(spacing: 20) {
-                    Button("Terms of Service") {}
-                    Button("Restore Purchase") {}
-                    Button("Privacy Policy") {}
+                    Link("Terms of Service", destination: URL(string: "https://github.com/dbeyzade/GalacticalMap/blob/main/TERMS.md")!)
+                    Button("Restore Purchase") {
+                        // Restore purchase logic would go here
+                    }
+                    Link("Privacy Policy", destination: URL(string: "https://github.com/dbeyzade/GalacticalMap/blob/main/PRIVACY.md")!)
                 }
                 .font(.caption2)
                 .foregroundColor(.gray)
